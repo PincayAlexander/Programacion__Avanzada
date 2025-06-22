@@ -1,5 +1,5 @@
 # Programacion__Avanzada
 
-'''bash
+```bash
 Prueba de actualizar el repositorio
-'''
+```
